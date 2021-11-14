@@ -90,13 +90,13 @@ ________________________________________________________________________________
 ## 📈 Statistics
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/>
+ <img src="https://komarev.com/ghpvc/?username=Nonslip19" alt="visitor counter" width="20%"/>
 </p>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my commit status" width="49%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Nonslip19&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nonslip19&theme=chartreuse-dark" alt="my commit status" width="49%" />
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mesut-OZTURK&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nonslip19&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 </p>
