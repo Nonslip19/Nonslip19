@@ -1,6 +1,6 @@
 # Hi guys! My name is Mehmet. Welcome to my GitHub.
 
-# [MY WEBSITE](https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/)
+<!-- # [MY WEBSITE](https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/) -->
 
 ## I am a Fullstack Web Developer 👋
 _____________________________________________________________
