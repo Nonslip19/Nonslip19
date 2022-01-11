@@ -1,8 +1,6 @@
 # Hi guys! My name is Mehmet. Welcome to my GitHub.
 
-<!-- # [MY WEBSITE](https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/) -->
-
-## I am a Fullstack Web Developer 👋
+## I am a Front End Web Developer 👋
 _____________________________________________________________
 
 ## 🚀 Skills
@@ -21,18 +19,18 @@ _____________________________________________________________
   <!-- <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="40"/> </a> -->
  </p>
  
- 
 ## BACKEND :
 <p>
   <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
+  <!-- 
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a> 
   
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a> 
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
-
-
+  
  </p>
+-->
  
  ## TOOLS :
  <p>
