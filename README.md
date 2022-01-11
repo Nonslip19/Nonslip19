@@ -19,8 +19,6 @@ _____________________________________________________________
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>
   <!-- <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="40"/> </a> -->
-
-
  </p>
  
  
@@ -69,9 +67,9 @@ ________________________________________________________________________________
 
 ## 👨👩 Social
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-kaymaz/)
-<!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetkaymaz/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mkaymaz)
+<!-- [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
 <!-- img src="./images/content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right" -->
@@ -79,7 +77,7 @@ ________________________________________________________________________________
 - 🔭 I’m currently working on frontend development (JavaScript | React | HTML | CSS)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mehmet-kaymaz/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mehmetkaymaz/)
 
 __________________________________________________________________________________________________________
 
