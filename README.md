@@ -11,7 +11,7 @@ _____________________________________________________________
 ## FRONTEND :
 <p>
   
-  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/html5.png" alt="html" height="50"/> </a>  
+  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/html5.png" alt="html" height="50"/> </a>
   <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/css3.png" alt="css" height="50"/> </a>
   <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/js-logo.png" alt="js" height="50"/> </a>
   
