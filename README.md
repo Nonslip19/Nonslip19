@@ -24,8 +24,6 @@ _____________________________________________________________
   <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a> 
-  
-![django_line_logo_icon_146560](https://user-images.githubusercontent.com/88439875/151695143-01afc946-db6f-4804-82a3-04ef47da7205.png)
 
   <!-- 
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a> 
