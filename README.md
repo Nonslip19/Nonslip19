@@ -51,7 +51,7 @@ _____________________________________________________________
 <p>
   <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/>     </a> 
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a> 
+  <!-- <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a> -->
   
   <p></p>
   <p></p>
