@@ -55,10 +55,11 @@ _____________________________________________________________
   
   <p></p>
   <p></p>
-  
+ <!-- 
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a> 
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="50"/> </a> 
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
+-->
 </p>
 ______________________________________________________________________________________________________
 
